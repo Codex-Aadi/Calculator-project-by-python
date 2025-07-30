@@ -1,5 +1,5 @@
 # Calculator-project-by-python
-I have made this simple calculator project for my leaning using basic functions and statements
+I have made this simple calculator project for my learning purpose using basic functions and statements
 # STEP 1 - CREATE FUNCTIONS To make Calculator
 
 # Functions to add two Functions
